@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/HpPwtLvj/Gemini-Generated-Image-fg01rqfg01rqfg01.png](https://i.ibb.co.com/HpPwtLvj/Gemini-Generated-Image-fg01rqfg01rqfg01.png)" width="100%" />
+  <img src="https://i.ibb.co/HpPwtLvj/Gemini-Generated-Image-fg01rqfg01rqfg01.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asadullah</h1>
