@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/HpPwtLvj/Gemini-Generated-Image-fg01rqfg01rqfg01.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Asadullah</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
 
@@ -5,17 +9,17 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Learner;JavaScript+Enthusiast;Love+to+Build+Modern+Web+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Learner;JavaScript+Enthusiast;Future+Full-Stack+Developer;Love+to+Build+Modern+Web+UI" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-- 👨‍💻 I am an enthusiastic and dedicated **Frontend Developer**  
+- 👨‍💻 Enthusiastic and dedicated **Frontend Developer**  
 - 🌱 Currently learning: **JavaScript, React, Next.js, Node.js, MongoDB, HTML, CSS, Tailwind CSS**  
-- 💡 I love working on: **Frontend Development, UI/UX, Web Animations, Clean & Modern UI Design**  
-- 🎯 Goal: To become a **Professional Frontend Developer**  
+- 💡 I love working on: **Frontend Development, UI/UX, Web Animations, Modern UI Design**  
+- 🎯 Goal: To become a **Professional Full-Stack Developer**  
 - 📫 Contact: **asadulislam0288@gmail.com**
 
 ---
