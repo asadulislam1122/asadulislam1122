@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.ibb.co/HpPwtLvj/Gemini-Generated-Image-fg01rqfg01rqfg01.png" alt="AI-generated image" width="100%">
+ <img src="https://i.ibb.co/nqKVCJvd/Gemini-Generated-Image-rgjh8lrgjh8lrgjh.png" alt="AI-generated image" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Asadullah</h1>
@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadulislam1122&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=asadulislam1122&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadulislam1122&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
